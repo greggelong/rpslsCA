@@ -1,4 +1,4 @@
-# Rock Paper Scissors Cellular Automata
+# Rock Paper Scissors Lizard Spock Cellular Automata
 
 
 I have seen the concept implemented but I did not find any rule sets for it.
